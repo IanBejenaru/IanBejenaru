@@ -5,6 +5,18 @@ Mi mayor motivación es optimizar el uso del tiempo y los recursos en cada proye
 
 Me entusiasma compartir conocimientos, aprender de otros profesionales y colaborar en iniciativas interesantes. Si deseas conversar sobre tecnologías emergentes, optimización de procesos, desarrollo de software o simplemente intercambiar ideas, estarás encantado de conectarme contigo. ¡Espero con entusiasmo la posibilidad de trabajar juntos y construir algo extraordinario!
 
+<br>
+
+## Technologies Used 🛠️
+
+[![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() 
+
+
+- Web Development: HTML, CSS, JavaScript
+- Backend Technologies: Python, Node.js
+- Front-End Frameworks: React, Vue.js
+
+<br>
 
 <!--
 **IanBejenaru/IanBejenaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
