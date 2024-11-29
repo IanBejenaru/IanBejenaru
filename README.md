@@ -7,17 +7,24 @@ Me entusiasma compartir conocimientos, aprender de otros profesionales y colabor
 
 <br>
 
-## Technologies Used 🛠️
+## Tecnologías utilizadas 🛠️
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]() [![Html](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black&color=%23E34F26)]() [![Css](https://img.shields.io/badge/css-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black&color=blue)]() [![Javascript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=%23F7DF1E)]() [![SQL](https://img.shields.io/badge/my%20sql-white?style=for-the-badge&logo=mysql&logoColor=white&labelColor=black&color=%234479A1)]() 
 
-
-- Web Development: HTML, CSS, JavaScript
-- Backend Technologies: Python, Node.js
-- Front-End Frameworks: React, Vue.js
-
+- Desarrollo Web: HTML, CSS, JavaScript
+- Tecnologías Back-End: Python, Node.js
+- Frameworks Front-End: React, Vue.js
 <br>
 
+## Contáctame 📫
+
+Si tienes preguntas, sugerencias o simplemente quieres charlar, no dudes en ponerte en contacto conmigo a través de:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/ianbejenaru/)
+</br>
+[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:ianbeje17@gmail.com)
+
+<br>
 <!--
 **IanBejenaru/IanBejenaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
