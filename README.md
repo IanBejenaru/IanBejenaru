@@ -1,4 +1,4 @@
-## Hola, soy Ian Bejenenaru 👋
+## Hola, mi nombre es Ian Bejenenaru 👋
 Soy un apasionado de la tecnología y un profesional comprometido con la transformación digital. Mi especialidad radica en rediseñar procesos para maximizar la competitividad y eficiencia en un mundo cada vez más digitalizado. Como Ingeniero en Electrónica Industrial y Automática, desarrolló una sólida experiencia en la automatización de procesos, convirtiendo desafíos complejos en soluciones efectivas.
 
 Mi mayor motivación es optimizar el uso del tiempo y los recursos en cada proyecto que emprendo. Desde el inicio de mi carrera, he estado enfocado en crear sistemas que potencien la productividad y permitan a las organizaciones alcanzar su máximo potencial. Disfruto enfrentando retos, ideando soluciones innovadoras y siendo parte activa del progreso en la transformación digital.
