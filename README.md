@@ -22,7 +22,7 @@ Si tienes preguntas, sugerencias o simplemente quieres charlar, no dudes en pone
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=%230A66C2&color=%23363636)](https://www.linkedin.com/in/ianbejenaru/)
 </br>
-[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=ferrancolllopez%40gmail.com&labelColor=black&color=%23EA4335)](mailto:ianbeje17@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=ianbeje17%40gmail.com&labelColor=black&color=%23EA4335)](mailto:ianbeje17@gmail.com)
 
 <br>
 <!--
